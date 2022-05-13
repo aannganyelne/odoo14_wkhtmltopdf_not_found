@@ -1,5 +1,6 @@
-# odoo14 wkhtmltopdf Not Found
-Mengatasi masalah error wkhtmltopdf not found, padahal wkhtmltopdf sudah terinstall di Debian 11
+# Mengatasi Masalah wkhtmltopdf Not Found di odoo14 
+
+Mengatasi masalah error wkhtmltopdf not found, padahal wkhtmltopdf sudah terinstall (contoh kasus di Debian 11)
 
 Jalankan command:
 
