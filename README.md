@@ -15,7 +15,7 @@ $ which wkhtmltodpf
 Contoh output: `/usr/bin/wkhtmltopdf`  copy path ini.
 
 * Masuk ke Debug Mode
-* Masuk ke Settings -> Customization -> Parameters -> System Parameters
+* Masuk ke Settings -> Technical -> System Parameters
 * Search `webkit_path` jika tidak ditemukan Klik `Create`
 * Isikan Key: `webkit_path`
 * Isikan Value: `/usr/bin/wkhtmltopdf`  (value sesuai hasil dari command `$ which wkhtmltopdf`)
